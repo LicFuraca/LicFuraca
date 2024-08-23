@@ -51,7 +51,6 @@ Developed a corporate website featuring a PHP contact form and integrated a chat
 I'm committed to staying up-to-date with the latest web development trends and technologies. Currently focusing on clean code, POO and Java.
 
 ## Let's Connect!
-I'm always open to new opportunities and collaborations. Feel free to reach out!
 
 <a href="mailto:martinexequield@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="105"></a>
  <a href="https://www.linkedin.com/in/developermartindiaz/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="133"></a>
