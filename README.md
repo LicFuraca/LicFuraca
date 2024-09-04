@@ -38,6 +38,9 @@ practical experience.
 - I swiftly acquired skills in PHP, Next.js and Tailwind to meet job requirements, not only fulfilling but significantly exceeding the expected objectives.
 
 ## Professional Experience <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExanNidGF6c3lob21rN3VlZmZvY3IycHljbnd3enV4c21qMDFxMGZnbiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/uhQuegHFqkVYuFMXMQ/giphy.gif" width="35">
+- [MercadoLibre](www.mercadolibre.com) <br>
+Backend developer in Java using Springboot
+
 - [LegalAccurify](https://www.legalaccurify.com/) <br>
 A comprehensive legal practice management software designed to streamline operations for law firms. This innovative solution enables efficient management of attorneys, clients, and cases while offering cutting-edge features such as AI-powered document import and     automated retirement benefit calculations. The platform enhances productivity, ensures data accuracy, and provides valuable insights, allowing legal professionals to focus on delivering exceptional service to their clients.
 
