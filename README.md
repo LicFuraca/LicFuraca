@@ -21,7 +21,7 @@ practical experience.
   - ![My Skills](https://skillicons.dev/icons?i=html,css,javascript,react,bootstrap,tailwind,nextjs)
     
 - Backend:
-  - ![My Skills](https://skillicons.dev/icons?i=nodejs,express,php,java,springboot)
+  - ![My Skills](https://skillicons.dev/icons?i=nodejs,express,php,java,spring)
  
 - Databases:
   - ![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,firebase)
@@ -30,7 +30,7 @@ practical experience.
   - ![My Skills](https://skillicons.dev/icons?i=git,github,gitlab)
  
 - Tools:
-  - ![My Skills](https://skillicons.dev/icons?i=docker,aws,vite,postman)
+  - ![My Skills](https://skillicons.dev/icons?i=docker,aws,vite,postman,idea)
 
 
 ## Achivements <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnFxZTRydTVtbXhmdDl3ZnBnMnV5NmkxbDcxam1sanFxMHNmcTczNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Ur8KSNs0XRPILfsuY9/giphy.gif" width="45"> 
