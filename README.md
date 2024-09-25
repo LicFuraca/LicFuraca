@@ -21,7 +21,7 @@ practical experience.
   - ![My Skills](https://skillicons.dev/icons?i=html,css,javascript,react,bootstrap,tailwind,nextjs)
     
 - Backend:
-  - ![My Skills](https://skillicons.dev/icons?i=nodejs,express,php,java)
+  - ![My Skills](https://skillicons.dev/icons?i=nodejs,express,php,java,springboot)
  
 - Databases:
   - ![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,firebase)
