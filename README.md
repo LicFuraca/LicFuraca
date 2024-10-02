@@ -17,21 +17,25 @@ practical experience.
 
 
 ## Skills  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">
-- Frontend:
-  - ![My Skills](https://skillicons.dev/icons?i=html,css,javascript,react,bootstrap,tailwind,nextjs)
+- Specialist in:
+  - ![My Skills](https://skillicons.dev/icons?i=java,spring,git,postman)
     
-- Backend:
-  - ![My Skills](https://skillicons.dev/icons?i=nodejs,express,php,java,spring)
+- Worked with:
+  - ![My Skills](https://skillicons.dev/icons?i=php,javascript,jquery,css,html,gitlab,mysql)
  
-- Databases:
-  - ![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,firebase)
+- Used al least once:
+  - ![My Skills](https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,docker,aws,vite,firebase,mongodb)
 
+### Other tools
 - Version Control:
   - ![My Skills](https://skillicons.dev/icons?i=git,github,gitlab)
  
 - Tools:
-  - ![My Skills](https://skillicons.dev/icons?i=docker,aws,vite,postman,idea)
+  - ![My Skills](https://skillicons.dev/icons?i=vite,maven)
 
+- IDE:
+  - ![My Skills](https://skillicons.dev/icons?i=idea,eclipse,vscode,visualstudio)
+  
 
 ## Achivements <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnFxZTRydTVtbXhmdDl3ZnBnMnV5NmkxbDcxam1sanFxMHNmcTczNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Ur8KSNs0XRPILfsuY9/giphy.gif" width="45"> 
 - I integrated Amazon (AWS) artificial intelligence (AI) into the site to automate the uploading of documents and the subsequent storage and use of that specific information. 
