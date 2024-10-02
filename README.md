@@ -21,9 +21,9 @@ practical experience.
   - ![My Skills](https://skillicons.dev/icons?i=java,spring,git,postman)
     
 - Worked with:
-  - ![My Skills](https://skillicons.dev/icons?i=php,javascript,jquery,css,html,gitlab,mysql)
+  - ![My Skills](https://skillicons.dev/icons?i=php,javascript,jquery,css,html,mysql)
  
-- Used al least once:
+- Used at least once:
   - ![My Skills](https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,docker,aws,vite,firebase,mongodb)
 
 ### Other tools
