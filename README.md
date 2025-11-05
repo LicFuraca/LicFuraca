@@ -1,9 +1,9 @@
 # Hi, i'm Martín  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 
 ## About Me <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXQzdXplajZkZW55a281aXpldGc5d2M1aXQ3Y2h1cGFobm0wbHhzZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/W6R5DN52pFyoyrAzIg/giphy.gif" width="35">
-I'm a junior full-stack web developer with 2 years of experience, passionate about creating efficient and user-friendly web applications.
+I'm a software developer with more than 3 years of experience, passionate about creating efficient and user-friendly web applications.
 My journey in tech began in 2022 as a self-taught student, and I've since expanded my skills through formal education and 
-practical experience.
+practical experience working as a freelancer, and in big tech companies.
 
 
 ## Education <img src="https://media.giphy.com/media/yFAuYYi9LYQNI8lmZo/giphy.gif?cid=790b7611bd1hysqok310b14mrst5kv25j1dgy1o9yxtafp2q&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="35">
