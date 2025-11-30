@@ -1,63 +1,66 @@
-# Hi, i'm Martín  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+# 👋 Hi, I'm Martín Díaz
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 
-## About Me <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXQzdXplajZkZW55a281aXpldGc5d2M1aXQ3Y2h1cGFobm0wbHhzZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/W6R5DN52pFyoyrAzIg/giphy.gif" width="35">
-I'm a software developer with more than 3 years of experience, passionate about creating efficient and user-friendly web applications.
-My journey in tech began in 2022 as a self-taught student, and I've since expanded my skills through formal education and 
-practical experience working as a freelancer, and in big tech companies.
+**A Backend Software Developer with 4+ years of experience crafting efficient, high-impact applications at scale.**
 
+---
 
-## Education <img src="https://media.giphy.com/media/yFAuYYi9LYQNI8lmZo/giphy.gif?cid=790b7611bd1hysqok310b14mrst5kv25j1dgy1o9yxtafp2q&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="35">
-- Currently pursuing a degree in Systems Analysis (started 2024)
-  - First semester completed with a 9.3 GPA
-  - Currently enrolled in the second semester
-- Full-Stack Developer Bootcamp, 2024, Udemy
-- Complete Guide to React, 2023, Udemy
-- Professional Frontend Development, 2023, UTN
-- Introductory Frontend Development, 2022, UTN
+## 🚀 About Me
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXQzdXplajZkZW55a281aXpldGc5d2M1aXQ3Y2h1cGFobm0wbHhzZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/W6R5DN52pFyoyrAzIg/giphy.gif" width="35">
 
+I specialize in **Backend Development** for high-traffic platforms, with expertise in **Kotlin (Spring Boot), Go, and Java**. My focus is on building resilient, scalable, and fully tested systems.
 
-## Skills  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">
-- Specialist in:
-  - ![My Skills](https://skillicons.dev/icons?i=java,spring,git,postman)
-    
-- Worked with:
-  - ![My Skills](https://skillicons.dev/icons?i=php,javascript,jquery,css,html,mysql)
- 
-- Used at least once:
-  - ![My Skills](https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,docker,aws,vite,firebase,mongodb)
+Currently, I'm a key developer at **Mercado Libre/Mercado Pago**—the largest tech company in Latin America—where I develop critical features and maintain high-volume applications used by millions.
 
-### Other tools
-- Version Control:
-  - ![My Skills](https://skillicons.dev/icons?i=git,github,gitlab)
- 
-- Tools:
-  - ![My Skills](https://skillicons.dev/icons?i=vite,maven)
+My journey started in 2022 as a self-taught enthusiast, progressing through formal education and hands-on freelance work before joining the world of Big Tech.
 
-- IDE:
-  - ![My Skills](https://skillicons.dev/icons?i=idea,eclipse,vscode,visualstudio)
-  
+---
 
-## Achivements <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnFxZTRydTVtbXhmdDl3ZnBnMnV5NmkxbDcxam1sanFxMHNmcTczNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Ur8KSNs0XRPILfsuY9/giphy.gif" width="45"> 
-- I integrated Amazon (AWS) artificial intelligence (AI) into the site to automate the uploading of documents and the subsequent storage and use of that specific information. 
-- I swiftly acquired skills in PHP, Next.js and Tailwind to meet job requirements, not only fulfilling but significantly exceeding the expected objectives.
+## 🛠️ Tech Stack & Skills
+<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">
 
-## Professional Experience <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExanNidGF6c3lob21rN3VlZmZvY3IycHljbnd3enV4c21qMDFxMGZnbiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/uhQuegHFqkVYuFMXMQ/giphy.gif" width="35">
-- Mercado Libre <br>
-Backend Developer - Java, Go, Fury, Metrics, CI/CO and much more!
+| Category | Key Technologies |
+| :--- | :--- |
+| **Backend & Languages** | Kotlin (Spring Boot), Go, Java, PHP, Next.js |
+| **Observability & DevOps** | Datadog (Metrics & Alerts), New Relic (Performance), CI/CD |
+| **Methodology** | Scrum, Kanban, RFCs, ADRs, Code Coverage, Border Cases, Retrocompatibility |
+| **Cloud/AI Integration** | Amazon Web Services (AWS) AI Services |
 
-- [LegalAccurify](https://www.legalaccurify.com/) <br>
-A comprehensive legal practice management software designed to streamline operations for law firms. This innovative solution enables efficient management of attorneys, clients, and cases while offering cutting-edge features such as AI-powered document import and     automated retirement benefit calculations. The platform enhances productivity, ensures data accuracy, and provides valuable insights, allowing legal professionals to focus on delivering exceptional service to their clients.
+---
 
-- [Web Portfolio](https://marianolapenna.tech/) <br>
-Development of a cutting-edge web portfolio for a sr developer in two languages, incorporating advanced technologies while learning and implementing new libraries and frameworks on the fly.
+## 🏆 Key Achievements & Impact
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnFxZTRydTVtbXhmdDl3ZnBnMnV5NmkxbDcxam1sanFxMHNmcTczNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Ur8KSNs0XRPILfsuY9/giphy.gif" width="45">
 
-- [LoJubilamos](https://lojubilamos.com/index.php) <br>
-Developed a corporate website featuring a PHP contact form and integrated a chatbot API.
+* **High-Volume Development:** Developing and deploying critical features for **Mercado Libre** and **Mercado Pago** applications, prioritizing reliability, performance, and testing standards (high code coverage).
+* **AI Integration:** Successfully integrated **Amazon (AWS) AI** services to automate document uploading, data extraction, and subsequent storage for efficient use within a comprehensive legal platform.
+* **Rapid Skill Acquisition:** Swiftly acquired and implemented skills in PHP, Next.js, and Tailwind CSS to not only meet but significantly exceed project objectives for client-facing applications.
 
-## Continuous Learning <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZm4xbW1xMWZmdmViem45Z3pjZ21jaWNvYzNtZjRrY3lsZTY3MWVvdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/VDdh2wgmzsXAc7FCd7/giphy.gif" width="35">
-I'm committed to staying up-to-date with the latest web development trends and technologies. Currently focusing on clean code, POO and Java.
+---
 
-## Let's Connect!
+## 💼 Professional Experience
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExanNidGF6c3lob21rN3VlZmZvY3IycHljbnd3enV4c21qMDFxMGZnbiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/uhQuegHFqkVYuFMXMQ/giphy.gif" width="35">
 
-<a href="mailto:martinexequield@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="105"></a>
- <a href="https://www.linkedin.com/in/developermartindiaz/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="133"></a>
+### **Backend Developer | Mercado Libre / Mercado Pago**
+* Developing features and fixing bugs for massive-scale applications used by millions.
+* Daily focus on **Kotlin (Spring Boot), Go, and Java**.
+* Ensuring system reliability through deployment analysis using **Datadog** (metrics/alerts) and **New Relic** (response time, rate limit, errors).
+* Driving quality by adhering to strict **code coverage** standards and practicing formal design through **RFCs** and **ADRs**.
+
+### **Freelance / Consulting Projects**
+
+* **[LegalAccurify]** - Full-stack development of a legal practice management system. Features included AI-powered document import (AWS integration) and automated benefit calculations, significantly enhancing law firm productivity.
+* **[Web Portfolio]** - Developed a cutting-edge web portfolio for a senior developer, implementing new libraries and frameworks on the fly.
+
+---
+
+## 🎓 Education
+<img src="https://media.giphy.com/media/yFAuYYi9LYQNI8lmZo/giphy.gif?cid=790b7611bd1hysqok310b14mrst5kv25j1dgy1o9yxtafp2q&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="35">
+
+* **Systems Analysis Degree** (2024 - Est. 2026)
+    * *Strong academic performance: 9.3 GPA in the first semester.*
+* **Courses & Bootcamps:** Full-Stack Developer Bootcamp (Udemy), Complete Guide to React (Udemy), Professional & Introductory Frontend Development (UTN).
+
+---
+
+## 📬 Let's Connect!
+<a href="https://www.linkedin.com/in/developermartindiaz/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="133"></a>
